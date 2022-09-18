@@ -1,7 +1,7 @@
-#print your initials
-
-
-if __name__ == "main":
-
-
-
+print("EEEEE L")
+print("E     L")
+print("E     L")
+print("EEE   L")
+print("E     L")
+print("E     L")
+print("EEEEE LLLLL")
